@@ -1,0 +1,4 @@
+auth.tf
+.terraform/
+.terraform.*
+packfile
