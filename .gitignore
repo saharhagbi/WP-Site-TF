@@ -2,3 +2,4 @@ auth.tf
 .terraform/
 .terraform.*
 packfile
+.DS_Store
